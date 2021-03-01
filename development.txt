@@ -13,7 +13,7 @@ pytest-cov==2.11.1
 pytest==6.2.2
 codecov==2.1.11
 hypothesis==6.3.4
-python_http_client==3.3.1
+python_http_client==3.3.2
 
 # CLI
 click==7.1.2
