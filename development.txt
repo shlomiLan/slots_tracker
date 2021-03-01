@@ -10,7 +10,7 @@ mypy==0.812
 
 # testing
 pytest-cov==2.11.1
-pytest==6.2.1
+pytest==6.2.2
 codecov==2.1.11
 hypothesis==5.43.5
 python_http_client==3.3.1
