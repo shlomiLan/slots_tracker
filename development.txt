@@ -9,7 +9,7 @@ flask-shell-ipython==0.4.1
 mypy==0.812
 
 # testing
-pytest-cov==2.10.1
+pytest-cov==2.11.1
 pytest==6.2.1
 codecov==2.1.11
 hypothesis==5.43.5
